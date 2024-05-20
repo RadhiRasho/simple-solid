@@ -1,0 +1,3518 @@
+[
+    {
+        "text": "frei",
+        "translations": [
+            "free",
+            "available"
+        ]
+    },
+    {
+        "text": "Zugtür",
+        "translations": [
+            "train door"
+        ]
+    },
+    {
+        "text": "Speisewagen",
+        "translations": [
+            "dining car",
+            "diner car"
+        ]
+    },
+    {
+        "text": "Sitz",
+        "translations": [
+            "seat",
+            "place",
+            "chair"
+        ]
+    },
+    {
+        "text": "Station",
+        "translations": [
+            "station"
+        ]
+    },
+    {
+        "text": "nächste",
+        "translations": [
+            "next",
+            "closest"
+        ]
+    },
+    {
+        "text": "hinten",
+        "translations": [
+            "in the back",
+            "at the back",
+            "in the rear",
+            "at the rear"
+        ]
+    },
+    {
+        "text": "fällt",
+        "translations": [
+            "fall",
+            "is falling",
+            "cases",
+            "falls",
+            "drop"
+        ]
+    },
+    {
+        "text": "können",
+        "translations": [
+            "are able to",
+            "knew",
+            "can",
+            "could",
+            "know"
+        ]
+    },
+    {
+        "text": "Kreditkarte",
+        "translations": [
+            "credit card"
+        ]
+    },
+    {
+        "text": "Reisezentrum",
+        "translations": [
+            "travel center",
+            "travel centre"
+        ]
+    },
+    {
+        "text": "stornieren",
+        "translations": [
+            "cancel"
+        ]
+    },
+    {
+        "text": "zahlen",
+        "translations": [
+            "pay",
+            "to pay",
+            "are paying",
+            "paying"
+        ]
+    },
+    {
+        "text": "Gleis",
+        "translations": [
+            "track",
+            "platform"
+        ]
+    },
+    {
+        "text": "ICE",
+        "translations": [
+            "intercity express",
+            "ICE"
+        ]
+    },
+    {
+        "text": "auf",
+        "translations": [
+            "on to",
+            "on top of",
+            "onto",
+            "for",
+            "open",
+            "up",
+            "down",
+            "at",
+            "on",
+            "about",
+            "to",
+            "rising",
+            "of",
+            "in",
+            "by",
+            "babysit"
+        ]
+    },
+    {
+        "text": "Verspätung",
+        "translations": [
+            "delay"
+        ]
+    },
+    {
+        "text": "Achtung",
+        "translations": [
+            "careful",
+            "attention",
+            "watch out"
+        ]
+    },
+    {
+        "text": "es gibt",
+        "translations": [
+            "there are",
+            "there is",
+            "there's"
+        ]
+    },
+    {
+        "text": "Abfahrt",
+        "translations": [
+            "departure"
+        ]
+    },
+    {
+        "text": "spät",
+        "translations": [
+            "late"
+        ]
+    },
+    {
+        "text": "halb",
+        "translations": [
+            "half"
+        ]
+    },
+    {
+        "text": "Minuten",
+        "translations": [
+            "minutes"
+        ]
+    },
+    {
+        "text": "Uhr",
+        "translations": [
+            "watch",
+            "clock",
+            "o'clock"
+        ]
+    },
+    {
+        "text": "Zug",
+        "translations": [
+            "train"
+        ]
+    },
+    {
+        "text": "genau",
+        "translations": [
+            "exactly",
+            "precisely"
+        ]
+    },
+    {
+        "text": "nach",
+        "translations": [
+            "for",
+            "about",
+            "to",
+            "according to",
+            "after",
+            "by",
+            "push"
+        ]
+    },
+    {
+        "text": "dreißig",
+        "translations": [
+            "thirty",
+            "30"
+        ]
+    },
+    {
+        "text": "kosten",
+        "translations": [
+            "is",
+            "try",
+            "were",
+            "cost",
+            "be",
+            "are",
+            "was",
+            "being"
+        ]
+    },
+    {
+        "text": "Hin- und Rückfahrt",
+        "translations": [
+            "round-trip ticket",
+            "round trip",
+            "return ticket",
+            "return trip"
+        ]
+    },
+    {
+        "text": "Fahrkarte",
+        "translations": [
+            "ticket"
+        ]
+    },
+    {
+        "text": "zwanzig",
+        "translations": [
+            "twenty",
+            "20"
+        ]
+    },
+    {
+        "text": "Fahrkarten",
+        "translations": [
+            "tickets"
+        ]
+    },
+    {
+        "text": "Toiletten",
+        "translations": [
+            "toilets",
+            "bathrooms",
+            "restrooms",
+            "lavatories"
+        ]
+    },
+    {
+        "text": "Schuhe",
+        "translations": [
+            "shoes"
+        ]
+    },
+    {
+        "text": "Aufzug",
+        "translations": [
+            "elevator",
+            "lift"
+        ]
+    },
+    {
+        "text": "Pullover",
+        "translations": [
+            "sweater",
+            "jumper"
+        ]
+    },
+    {
+        "text": "schick",
+        "translations": [
+            "stylish",
+            "fashionable",
+            "chic",
+            "trendy",
+            "sophisticated"
+        ]
+    },
+    {
+        "text": "Jeans",
+        "translations": [
+            "jeans",
+            "pair of jeans"
+        ]
+    },
+    {
+        "text": "passt",
+        "translations": [
+            "fit",
+            "is suitable",
+            "fits",
+            "goes",
+            "matches",
+            "go"
+        ]
+    },
+    {
+        "text": "L",
+        "translations": [
+            "large"
+        ]
+    },
+    {
+        "text": "S",
+        "translations": [
+            "small"
+        ]
+    },
+    {
+        "text": "Größe",
+        "translations": [
+            "size"
+        ]
+    },
+    {
+        "text": "T-shirt",
+        "translations": [
+            "T-shirt"
+        ]
+    },
+    {
+        "text": "Hemd",
+        "translations": [
+            "shirt"
+        ]
+    },
+    {
+        "text": "Kleid",
+        "translations": [
+            "dress"
+        ]
+    },
+    {
+        "text": "Sakko",
+        "translations": [
+            "suit jacket",
+            "jacket",
+            "sport coat",
+            "sport jacket",
+            "blazer"
+        ]
+    },
+    {
+        "text": "suche",
+        "translations": [
+            "am looking for",
+            "look for",
+            "seek"
+        ]
+    },
+    {
+        "text": "musst",
+        "translations": [
+            "have got to",
+            "have to",
+            "need to",
+            "must"
+        ]
+    },
+    {
+        "text": "muss",
+        "translations": [
+            "needs to",
+            "has to",
+            "has got to",
+            "have got to",
+            "'s got to",
+            "have to",
+            "need to",
+            "do have to",
+            "have to go",
+            "must"
+        ]
+    },
+    {
+        "text": "aufgeregt",
+        "translations": [
+            "excited",
+            "eager",
+            "jumpy",
+            "jittery"
+        ]
+    },
+    {
+        "text": "Bluse",
+        "translations": [
+            "blouse",
+            "shirt",
+            "top"
+        ]
+    },
+    {
+        "text": "kaufen",
+        "translations": [
+            "buy",
+            "to get",
+            "to purchase"
+        ]
+    },
+    {
+        "text": "gehe",
+        "translations": [
+            "am going",
+            "walking",
+            "go",
+            "leave",
+            "going",
+            "walk",
+            "answer"
+        ]
+    },
+    {
+        "text": "Jobinterview",
+        "translations": [
+            "job interview",
+            "interview"
+        ]
+    },
+    {
+        "text": "nervös",
+        "translations": [
+            "nervous",
+            "on edge",
+            "flustered",
+            "panicky",
+            "panicked",
+            "antsy"
+        ]
+    },
+    {
+        "text": "Kaufhaus",
+        "translations": [
+            "department store",
+            "store"
+        ]
+    },
+    {
+        "text": "für",
+        "translations": [
+            "for"
+        ]
+    },
+    {
+        "text": "Dienstag",
+        "translations": [
+            "Tuesday"
+        ]
+    },
+    {
+        "text": "Montag",
+        "translations": [
+            "Monday"
+        ]
+    },
+    {
+        "text": "fantastisch",
+        "translations": [
+            "fantastic",
+            "great",
+            "terrific",
+            "awesome",
+            "fabulous",
+            "brilliant",
+            "wonderful",
+            "splendid",
+            "amazing"
+        ]
+    },
+    {
+        "text": "Bett",
+        "translations": [
+            "bed"
+        ]
+    },
+    {
+        "text": "Badezimmer",
+        "translations": [
+            "bathroom",
+            "restroom",
+            "washroom",
+            "loo",
+            "toilet",
+            "lavatory",
+            "lav",
+            "W.C.",
+            "WC"
+        ]
+    },
+    {
+        "text": "Bücherregal",
+        "translations": [
+            "bookcase",
+            "bookshelf"
+        ]
+    },
+    {
+        "text": "dunkel",
+        "translations": [
+            "dark"
+        ]
+    },
+    {
+        "text": "hell",
+        "translations": [
+            "bright",
+            "light"
+        ]
+    },
+    {
+        "text": "Lampe",
+        "translations": [
+            "lamp",
+            "light"
+        ]
+    },
+    {
+        "text": "sauber",
+        "translations": [
+            "clean",
+            "tidy",
+            "neat"
+        ]
+    },
+    {
+        "text": "Wohnung",
+        "translations": [
+            "apartment",
+            "flat"
+        ]
+    },
+    {
+        "text": "wer",
+        "translations": [
+            "who"
+        ]
+    },
+    {
+        "text": "Schreibtisch",
+        "translations": [
+            "desk"
+        ]
+    },
+    {
+        "text": "Couch",
+        "translations": [
+            "couch"
+        ]
+    },
+    {
+        "text": "Schlafzimmer",
+        "translations": [
+            "bedroom"
+        ]
+    },
+    {
+        "text": "magst",
+        "translations": [
+            "like"
+        ]
+    },
+    {
+        "text": "Schrank",
+        "translations": [
+            "closet",
+            "cabinet",
+            "cupboard",
+            "wardrobe",
+            "locker",
+            "armoire"
+        ]
+    },
+    {
+        "text": "bequem",
+        "translations": [
+            "comfortable",
+            "comfortably"
+        ]
+    },
+    {
+        "text": "brauchen",
+        "translations": [
+            "need",
+            "do need"
+        ]
+    },
+    {
+        "text": "wir",
+        "translations": [
+            "we"
+        ]
+    },
+    {
+        "text": "Teppich",
+        "translations": [
+            "carpet",
+            "rug"
+        ]
+    },
+    {
+        "text": "den",
+        "translations": [
+            "her",
+            "the",
+            "that",
+            "who",
+            "my"
+        ]
+    },
+    {
+        "text": "mag",
+        "translations": [
+            "like",
+            "likes",
+            "disliked"
+        ]
+    },
+    {
+        "text": "brauchst",
+        "translations": [
+            "need",
+            "use"
+        ]
+    },
+    {
+        "text": "hässlich",
+        "translations": [
+            "ugly",
+            "hideous",
+            "unsightly",
+            "gawdy",
+            "tacky"
+        ]
+    },
+    {
+        "text": "haben",
+        "translations": [
+            "have",
+            "do have",
+            "have had",
+            "is",
+            "hold",
+            "haben",
+            "were",
+            "take",
+            "get",
+            "having",
+            "serve",
+            "did",
+            "do serve",
+            "met",
+            "has",
+            "are",
+            "held",
+            "meet",
+            "be"
+        ]
+    },
+    {
+        "text": "Stuhl",
+        "translations": [
+            "chair"
+        ]
+    },
+    {
+        "text": "Tisch",
+        "translations": [
+            "table",
+            "desk"
+        ]
+    },
+    {
+        "text": "modern",
+        "translations": [
+            "modern"
+        ]
+    },
+    {
+        "text": "bis",
+        "translations": [
+            "until",
+            "till",
+            "'til"
+        ]
+    },
+    {
+        "text": "geöffnet",
+        "translations": [
+            "open"
+        ]
+    },
+    {
+        "text": "Eintrittskarte",
+        "translations": [
+            "admission ticket",
+            "[admission/entry/entrance] [ticket/pass/card] "
+        ]
+    },
+    {
+        "text": "wann",
+        "translations": [
+            "when",
+            "what time",
+            "at what time"
+        ]
+    },
+    {
+        "text": "heute Nachmittag",
+        "translations": [
+            "this afternoon"
+        ]
+    },
+    {
+        "text": "um",
+        "translations": [
+            "for",
+            "to",
+            "of",
+            "in order to",
+            "in order",
+            "around",
+            "moving",
+            "up",
+            "at",
+            "over",
+            "about",
+            "round",
+            "and",
+            "by",
+            "after"
+        ]
+    },
+    {
+        "text": "schade",
+        "translations": [
+            "harm",
+            "too bad"
+        ]
+    },
+    {
+        "text": "Spiel",
+        "translations": [
+            "game",
+            "match",
+            "play",
+            "performance"
+        ]
+    },
+    {
+        "text": "Konzert",
+        "translations": [
+            "concert",
+            "concerto",
+            "show"
+        ]
+    },
+    {
+        "text": "am",
+        "translations": [
+            "by the",
+            "the",
+            "a",
+            "that",
+            "in the",
+            "at the",
+            "at",
+            "on",
+            "who",
+            "about",
+            "which",
+            "to",
+            "next to the",
+            "on the",
+            "in",
+            "my"
+        ]
+    },
+    {
+        "text": "heute Abend",
+        "translations": [
+            "this evening",
+            "tonight"
+        ]
+    },
+    {
+        "text": "Sonntag",
+        "translations": [
+            "Sunday"
+        ]
+    },
+    {
+        "text": "Samstag",
+        "translations": [
+            "Saturday"
+        ]
+    },
+    {
+        "text": "Zeit",
+        "translations": [
+            "time"
+        ]
+    },
+    {
+        "text": "schwimmen",
+        "translations": [
+            "swim",
+            "to float"
+        ]
+    },
+    {
+        "text": "ins",
+        "translations": [
+            "this",
+            "to the",
+            "that",
+            "in the",
+            "into the",
+            "to",
+            "which"
+        ]
+    },
+    {
+        "text": "Geld",
+        "translations": [
+            "money"
+        ]
+    },
+    {
+        "text": "Schwimmbad",
+        "translations": [
+            "swimming pool"
+        ]
+    },
+    {
+        "text": "gehen",
+        "translations": [
+            "go",
+            "walk",
+            "leave"
+        ]
+    },
+    {
+        "text": "möchte",
+        "translations": [
+            "would like to",
+            "would like"
+        ]
+    },
+    {
+        "text": "möchtest",
+        "translations": [
+            "would like to",
+            "like",
+            "would like",
+            "do want"
+        ]
+    },
+    {
+        "text": "am Wochenende",
+        "translations": [
+            "on the weekend"
+        ]
+    },
+    {
+        "text": "Freunde",
+        "translations": [
+            "friends",
+            "friends'"
+        ]
+    },
+    {
+        "text": "joggen",
+        "translations": [
+            "to jog",
+            "jogging"
+        ]
+    },
+    {
+        "text": "spielen",
+        "translations": [
+            "playing",
+            "are playing",
+            "will play",
+            "play",
+            "plays"
+        ]
+    },
+    {
+        "text": "singst",
+        "translations": [
+            "sing",
+            "are singing"
+        ]
+    },
+    {
+        "text": "gern",
+        "translations": [
+            "like",
+            "liked to",
+            "happy to",
+            "does like to",
+            "likes",
+            "liked",
+            "do like to",
+            "likes to",
+            "like to",
+            "be happy to",
+            "are happy to",
+            "enjoy",
+            "fond"
+        ]
+    },
+    {
+        "text": "singt",
+        "translations": [
+            "sings",
+            "sing",
+            "is singing",
+            "singing"
+        ]
+    },
+    {
+        "text": "singe",
+        "translations": [
+            "sing",
+            "am singing"
+        ]
+    },
+    {
+        "text": "fotografiere",
+        "translations": [
+            "take photos",
+            "take pictures"
+        ]
+    },
+    {
+        "text": "surft",
+        "translations": [
+            "goes surfing",
+            "is surfing",
+            "surfs",
+            "surfing"
+        ]
+    },
+    {
+        "text": "jogge",
+        "translations": [
+            "am jogging",
+            "jog",
+            "jogging"
+        ]
+    },
+    {
+        "text": "Basketball",
+        "translations": [
+            "basketball"
+        ]
+    },
+    {
+        "text": "frühstückt",
+        "translations": [
+            "are eating breakfast",
+            "eats breakfast",
+            "is eating breakfast",
+            "eat breakfast"
+        ]
+    },
+    {
+        "text": "Morgen",
+        "translations": [
+            "morning"
+        ]
+    },
+    {
+        "text": "Fußball",
+        "translations": [
+            "soccer",
+            "football"
+        ]
+    },
+    {
+        "text": "Volleyball",
+        "translations": [
+            "volleyball"
+        ]
+    },
+    {
+        "text": "Urlaub",
+        "translations": [
+            "vacation",
+            "a vacation",
+            "holidays"
+        ]
+    },
+    {
+        "text": "joggt",
+        "translations": [
+            "jogs",
+            "is jogging"
+        ]
+    },
+    {
+        "text": "jeden",
+        "translations": [
+            "any",
+            "all",
+            "each",
+            "everybody",
+            "every",
+            "anyone"
+        ]
+    },
+    {
+        "text": "Tag",
+        "translations": [
+            "day"
+        ]
+    },
+    {
+        "text": "surfe",
+        "translations": [
+            "surf",
+            "go surfing"
+        ]
+    },
+    {
+        "text": "surfst",
+        "translations": [
+            "surf",
+            "go surfing"
+        ]
+    },
+    {
+        "text": "frühstücke",
+        "translations": [
+            "eat breakfast",
+            "am eating breakfast"
+        ]
+    },
+    {
+        "text": "joggst",
+        "translations": [
+            "jog",
+            "are jogging"
+        ]
+    },
+    {
+        "text": "so",
+        "translations": [
+            "that",
+            "as",
+            "so",
+            "like this",
+            "such",
+            "about",
+            "like that"
+        ]
+    },
+    {
+        "text": "heute Morgen",
+        "translations": [
+            "this morning"
+        ]
+    },
+    {
+        "text": "machst",
+        "translations": [
+            "work",
+            "are doing",
+            "are taking",
+            "make",
+            "create",
+            "take",
+            "will do",
+            "get",
+            "having",
+            "do",
+            "have",
+            "are making",
+            "turn",
+            "doing"
+        ]
+    },
+    {
+        "text": "frühstückst",
+        "translations": [
+            "are eating breakfast",
+            "eat breakfast"
+        ]
+    },
+    {
+        "text": "warum",
+        "translations": [
+            "why"
+        ]
+    },
+    {
+        "text": "spricht",
+        "translations": [
+            "speaks",
+            "does speak",
+            "speak",
+            "pronounce",
+            "talks",
+            "is speaking",
+            "talk",
+            "leaves",
+            "is talking",
+            "talking"
+        ]
+    },
+    {
+        "text": "lernt",
+        "translations": [
+            "learns",
+            "is studying",
+            "learn",
+            "studies",
+            "study",
+            "is learning",
+            "are learning",
+            "learning"
+        ]
+    },
+    {
+        "text": "Muttersprache",
+        "translations": [
+            "mother tongue",
+            "native language",
+            "first language",
+            "native tongue"
+        ]
+    },
+    {
+        "text": "viele",
+        "translations": [
+            "many",
+            "a lot of",
+            "lots of",
+            "heaps of",
+            "plenty of",
+            "loads of"
+        ]
+    },
+    {
+        "text": "Russisch",
+        "translations": [
+            "Russian"
+        ]
+    },
+    {
+        "text": "lernst",
+        "translations": [
+            "learn",
+            "study",
+            "are studying",
+            "are learning",
+            "studying",
+            "learning"
+        ]
+    },
+    {
+        "text": "lerne",
+        "translations": [
+            "learn",
+            "am meeting",
+            "study",
+            "am studying",
+            "am learning",
+            "meet",
+            "learning"
+        ]
+    },
+    {
+        "text": "Spanisch",
+        "translations": [
+            "Spanish"
+        ]
+    },
+    {
+        "text": "schnell",
+        "translations": [
+            "quickly",
+            "rapidly"
+        ]
+    },
+    {
+        "text": "sprichst",
+        "translations": [
+            "are speaking",
+            "speak",
+            "talk",
+            "pronounce",
+            "are talking"
+        ]
+    },
+    {
+        "text": "nur",
+        "translations": [
+            "only",
+            "just",
+            "merely"
+        ]
+    },
+    {
+        "text": "welche",
+        "translations": [
+            "which"
+        ]
+    },
+    {
+        "text": "Sprachen",
+        "translations": [
+            "languages"
+        ]
+    },
+    {
+        "text": "Schwedisch",
+        "translations": [
+            "Swedish"
+        ]
+    },
+    {
+        "text": "schwer",
+        "translations": [
+            "difficult",
+            "hard",
+            "tough"
+        ]
+    },
+    {
+        "text": "Ihr",
+        "translations": [
+            "she",
+            "your",
+            "her",
+            "yours",
+            "their",
+            "you"
+        ]
+    },
+    {
+        "text": "Französisch",
+        "translations": [
+            "French"
+        ]
+    },
+    {
+        "text": "nicht",
+        "translations": [
+            "not"
+        ]
+    },
+    {
+        "text": "sein",
+        "translations": [
+            "your",
+            "to be",
+            "be",
+            "being",
+            "her",
+            "were",
+            "have",
+            "his",
+            "was",
+            "its",
+            "keep"
+        ]
+    },
+    {
+        "text": "einfach",
+        "translations": [
+            "easy",
+            "simple"
+        ]
+    },
+    {
+        "text": "toll",
+        "translations": [
+            "great",
+            "awesome",
+            "terrific",
+            "amazing",
+            "excellent",
+            "fantastic",
+            "fantastically",
+            "lovely"
+        ]
+    },
+    {
+        "text": "Türkisch",
+        "translations": [
+            "Turkish"
+        ]
+    },
+    {
+        "text": "Polnisch",
+        "translations": [
+            "Polish"
+        ]
+    },
+    {
+        "text": "dünn",
+        "translations": [
+            "thin",
+            "slim",
+            "smallest",
+            "smaller",
+            "thinner"
+        ]
+    },
+    {
+        "text": "perfekt",
+        "translations": [
+            "perfect"
+        ]
+    },
+    {
+        "text": "kommt",
+        "translations": [
+            "is",
+            "is coming",
+            "comes",
+            "coming",
+            "are coming",
+            "will come",
+            "arrives",
+            "get",
+            "arrive",
+            "come on",
+            "come",
+            "are",
+            "gets"
+        ]
+    },
+    {
+        "text": "Schnecke",
+        "translations": [
+            "snail",
+            "slug"
+        ]
+    },
+    {
+        "text": "heißt",
+        "translations": [
+            "is",
+            "name is",
+            "is called",
+            "'s name is",
+            "called"
+        ]
+    },
+    {
+        "text": "liebe",
+        "translations": [
+            "love"
+        ]
+    },
+    {
+        "text": "liebst",
+        "translations": [
+            "love"
+        ]
+    },
+    {
+        "text": "Fisch",
+        "translations": [
+            "fish"
+        ]
+    },
+    {
+        "text": "Mitbewohnerin",
+        "translations": [
+            "roommate",
+            "roommate's"
+        ]
+    },
+    {
+        "text": "Partnerin",
+        "translations": [
+            "partner"
+        ]
+    },
+    {
+        "text": "keinen",
+        "translations": [
+            "any",
+            "not any",
+            "no",
+            "not",
+            "not an",
+            "not a",
+            "n't",
+            "don't",
+            "weren't"
+        ]
+    },
+    {
+        "text": "Partner",
+        "translations": [
+            "partner",
+            "partners",
+            "partner's"
+        ]
+    },
+    {
+        "text": "Mitbewohner",
+        "translations": [
+            "roommate",
+            "roomie",
+            "flatmate",
+            "housemate"
+        ]
+    },
+    {
+        "text": "keine",
+        "translations": [
+            "any",
+            "n't",
+            "no",
+            "not an",
+            "don't",
+            "not a",
+            "not any",
+            "not",
+            "doesn't"
+        ]
+    },
+    {
+        "text": "Oma",
+        "translations": [
+            "grandma",
+            "grandmother",
+            "nan",
+            "grandmom",
+            "granny",
+            "gran",
+            "nana"
+        ]
+    },
+    {
+        "text": "Tante",
+        "translations": [
+            "aunt",
+            "auntie",
+            "aunty"
+        ]
+    },
+    {
+        "text": "liebt",
+        "translations": [
+            "loves",
+            "love"
+        ]
+    },
+    {
+        "text": "Opa",
+        "translations": [
+            "grandpa",
+            "grandfather",
+            "granddad",
+            "grandad",
+            "grampa",
+            "grandpop",
+            "grandaddy",
+            "granddaddy"
+        ]
+    },
+    {
+        "text": "deinen",
+        "translations": [
+            "your",
+            "to your",
+            "for your",
+            "yours"
+        ]
+    },
+    {
+        "text": "meinen",
+        "translations": [
+            "mean",
+            "mine",
+            "to my",
+            "think",
+            "my",
+            "thinking"
+        ]
+    },
+    {
+        "text": "hat",
+        "translations": [
+            "has",
+            "was",
+            "is",
+            "takes",
+            "take",
+            "'s",
+            "is having",
+            "does have",
+            "did",
+            "have",
+            "meet",
+            "has been"
+        ]
+    },
+    {
+        "text": "hast",
+        "translations": [
+            "have",
+            "are",
+            "were",
+            "do",
+            "did",
+            "will have"
+        ]
+    },
+    {
+        "text": "habe",
+        "translations": [
+            "am",
+            "have been",
+            "did",
+            "had",
+            "have",
+            "have had",
+            "was"
+        ]
+    },
+    {
+        "text": "einen",
+        "translations": [
+            "an",
+            "a",
+            "one"
+        ]
+    },
+    {
+        "text": "Freund",
+        "translations": [
+            "boyfriend",
+            "partner"
+        ]
+    },
+    {
+        "text": "Onkel",
+        "translations": [
+            "uncle"
+        ]
+    },
+    {
+        "text": "warm",
+        "translations": [
+            "warm"
+        ]
+    },
+    {
+        "text": "Sommer",
+        "translations": [
+            "summer"
+        ]
+    },
+    {
+        "text": "wandert",
+        "translations": [
+            "hike",
+            "hikes",
+            "hiking"
+        ]
+    },
+    {
+        "text": "Sonnencreme",
+        "translations": [
+            "sunscreen",
+            "suntan lotion",
+            "sun cream",
+            "sunblock",
+            "suntan cream"
+        ]
+    },
+    {
+        "text": "wandere",
+        "translations": [
+            "am hiking",
+            "go hiking",
+            "hike",
+            "hiking"
+        ]
+    },
+    {
+        "text": "wandern",
+        "translations": [
+            "traveling",
+            "hiking",
+            "hike",
+            "are hiking",
+            "backpacking"
+        ]
+    },
+    {
+        "text": "wanderst",
+        "translations": [
+            "hiking",
+            "hike",
+            "go hiking",
+            "backpacking"
+        ]
+    },
+    {
+        "text": "neblig",
+        "translations": [
+            "foggy",
+            "misty"
+        ]
+    },
+    {
+        "text": "Frühling",
+        "translations": [
+            "spring",
+            "springtime"
+        ]
+    },
+    {
+        "text": "Wasserflasche",
+        "translations": [
+            "water bottle"
+        ]
+    },
+    {
+        "text": "stark",
+        "translations": [
+            "strong",
+            "hard",
+            "harder"
+        ]
+    },
+    {
+        "text": "Schal",
+        "translations": [
+            "scarf",
+            "shawl"
+        ]
+    },
+    {
+        "text": "jetzt",
+        "translations": [
+            "now",
+            "at the moment",
+            "currently"
+        ]
+    },
+    {
+        "text": "Winter",
+        "translations": [
+            "winters",
+            "winter"
+        ]
+    },
+    {
+        "text": "schneit",
+        "translations": [
+            "is snowing",
+            "snows"
+        ]
+    },
+    {
+        "text": "Herbst",
+        "translations": [
+            "fall",
+            "autumn"
+        ]
+    },
+    {
+        "text": "habt",
+        "translations": [
+            "did",
+            "have",
+            "meet"
+        ]
+    },
+    {
+        "text": "windig",
+        "translations": [
+            "windy"
+        ]
+    },
+    {
+        "text": "im",
+        "translations": [
+            "this",
+            "to the",
+            "in the",
+            "at the",
+            "during the",
+            "at",
+            "on",
+            "which",
+            "on the",
+            "during",
+            "in",
+            "by",
+            "to"
+        ]
+    },
+    {
+        "text": "Regenschirm",
+        "translations": [
+            "umbrella"
+        ]
+    },
+    {
+        "text": "schlecht",
+        "translations": [
+            "bad",
+            "ill",
+            "poor"
+        ]
+    },
+    {
+        "text": "regnet",
+        "translations": [
+            "rains",
+            "is raining"
+        ]
+    },
+    {
+        "text": "es",
+        "translations": [
+            "it"
+        ]
+    },
+    {
+        "text": "sonnig",
+        "translations": [
+            "sunny"
+        ]
+    },
+    {
+        "text": "heute",
+        "translations": [
+            "today"
+        ]
+    },
+    {
+        "text": "Wetter",
+        "translations": [
+            "weather"
+        ]
+    },
+    {
+        "text": "bewölkt",
+        "translations": [
+            "cloudy"
+        ]
+    },
+    {
+        "text": "Erdbeeren",
+        "translations": [
+            "strawberries"
+        ]
+    },
+    {
+        "text": "gern geschehen",
+        "translations": [
+            "you are welcome"
+        ]
+    },
+    {
+        "text": "Kartoffeln",
+        "translations": [
+            "potatoes"
+        ]
+    },
+    {
+        "text": "vielen Dank",
+        "translations": [
+            "thank you very much"
+        ]
+    },
+    {
+        "text": "zehn",
+        "translations": [
+            "ten"
+        ]
+    },
+    {
+        "text": "Döner",
+        "translations": [
+            "doner kebab",
+            "kebab"
+        ]
+    },
+    {
+        "text": "Tomaten",
+        "translations": [
+            "tomatoes"
+        ]
+    },
+    {
+        "text": "neun",
+        "translations": [
+            "nine"
+        ]
+    },
+    {
+        "text": "Kilo",
+        "translations": [
+            "kilos of",
+            "kilo of",
+            "kilos",
+            "kilo",
+            "kilogram",
+            "kilograms of"
+        ]
+    },
+    {
+        "text": "wirklich",
+        "translations": [
+            "really",
+            "actually",
+            "truly",
+            "genuinely"
+        ]
+    },
+    {
+        "text": "fünf",
+        "translations": [
+            "five"
+        ]
+    },
+    {
+        "text": "sieben",
+        "translations": [
+            "seven"
+        ]
+    },
+    {
+        "text": "sechs",
+        "translations": [
+            "six"
+        ]
+    },
+    {
+        "text": "Euro",
+        "translations": [
+            "euros",
+            "euro"
+        ]
+    },
+    {
+        "text": "von",
+        "translations": [
+            "from",
+            "'s",
+            "on",
+            "about",
+            "to",
+            "of",
+            "'",
+            "in",
+            "by",
+            "off"
+        ]
+    },
+    {
+        "text": "null",
+        "translations": [
+            "zero"
+        ]
+    },
+    {
+        "text": "Dollar",
+        "translations": [
+            "dollar",
+            "dollars"
+        ]
+    },
+    {
+        "text": "kostet",
+        "translations": [
+            "is",
+            "does cost",
+            "costs",
+            "cost"
+        ]
+    },
+    {
+        "text": "Orangen",
+        "translations": [
+            "oranges"
+        ]
+    },
+    {
+        "text": "Marktplatz",
+        "translations": [
+            "marketplace",
+            "market"
+        ]
+    },
+    {
+        "text": "drei",
+        "translations": [
+            "three"
+        ]
+    },
+    {
+        "text": "eins",
+        "translations": [
+            "one"
+        ]
+    },
+    {
+        "text": "zwei",
+        "translations": [
+            "two"
+        ]
+    },
+    {
+        "text": "Anwalt",
+        "translations": [
+            "lawyer",
+            "barrister",
+            "solicitor",
+            "attorney"
+        ]
+    },
+    {
+        "text": "Russland",
+        "translations": [
+            "Russia"
+        ]
+    },
+    {
+        "text": "Anwältin",
+        "translations": [
+            "lawyer",
+            "a lawyer"
+        ]
+    },
+    {
+        "text": "Schweden",
+        "translations": [
+            "Sweden"
+        ]
+    },
+    {
+        "text": "Künstler",
+        "translations": [
+            "an artist",
+            "artists'",
+            "performer",
+            "artist",
+            "artists",
+            "performers"
+        ]
+    },
+    {
+        "text": "lebst",
+        "translations": [
+            "live",
+            "living"
+        ]
+    },
+    {
+        "text": "lebe",
+        "translations": [
+            "live",
+            "am living"
+        ]
+    },
+    {
+        "text": "leben",
+        "translations": [
+            "lived",
+            "living",
+            "are living",
+            "live",
+            "have lived"
+        ]
+    },
+    {
+        "text": "Polizist",
+        "translations": [
+            "police officer",
+            "policeman",
+            "a police officer"
+        ]
+    },
+    {
+        "text": "Schüler",
+        "translations": [
+            "students",
+            "pupil",
+            "student",
+            "pupils"
+        ]
+    },
+    {
+        "text": "Deutsch",
+        "translations": [
+            "German"
+        ]
+    },
+    {
+        "text": "spreche",
+        "translations": [
+            "am talking",
+            "speak",
+            "pronounce",
+            "talk",
+            "am speaking",
+            "say",
+            "speaking"
+        ]
+    },
+    {
+        "text": "sprechen",
+        "translations": [
+            "speak",
+            "are speaking"
+        ]
+    },
+    {
+        "text": "Englisch",
+        "translations": [
+            "English"
+        ]
+    },
+    {
+        "text": "kein",
+        "translations": [
+            "any",
+            "no",
+            "not an",
+            "don't",
+            "not a",
+            "not any",
+            "does not",
+            "not",
+            "doesn't",
+            "n't"
+        ]
+    },
+    {
+        "text": "freut mich",
+        "translations": [
+            "nice to meet you",
+            "nice"
+        ]
+    },
+    {
+        "text": "wie",
+        "translations": [
+            "as",
+            "such",
+            "like",
+            "how do",
+            "what",
+            "how",
+            "such as"
+        ]
+    },
+    {
+        "text": "heiße",
+        "translations": [
+            "hot",
+            "am called"
+        ]
+    },
+    {
+        "text": "heißen",
+        "translations": [
+            "hot",
+            "name",
+            "go",
+            "tell",
+            "are called",
+            "call",
+            "are the names of",
+            "called",
+            "names"
+        ]
+    },
+    {
+        "text": "kommen",
+        "translations": [
+            "arrives",
+            "comes on",
+            "do come",
+            "get",
+            "arrive",
+            "come on",
+            "come",
+            "coming",
+            "are coming",
+            "are",
+            "went",
+            "comes"
+        ]
+    },
+    {
+        "text": "sind",
+        "translations": [
+            "feel",
+            "have",
+            "are",
+            "have been",
+            "are being",
+            "are there",
+            "is",
+            "being",
+            "were",
+            "been",
+            "did"
+        ]
+    },
+    {
+        "text": "Herr",
+        "translations": [
+            "Mr.",
+            "gentleman"
+        ]
+    },
+    {
+        "text": "Sie",
+        "translations": [
+            "They",
+            "It",
+            "your",
+            "you're",
+            "She's",
+            "She",
+            "you'll",
+            "you"
+        ]
+    },
+    {
+        "text": "Kanzlerin",
+        "translations": [
+            "chancellor",
+            "the chancellor",
+            "a chancellor"
+        ]
+    },
+    {
+        "text": "U-Bahnstation",
+        "translations": [
+            "subway station"
+        ]
+    },
+    {
+        "text": "Geldautomat",
+        "translations": [
+            "ATM",
+            "cash dispenser",
+            "cashpoint",
+            "bank machine",
+            "cash machine"
+        ]
+    },
+    {
+        "text": "neu",
+        "translations": [
+            "new"
+        ]
+    },
+    {
+        "text": "weit weg",
+        "translations": [
+            "far away",
+            "far"
+        ]
+    },
+    {
+        "text": "je",
+        "translations": [
+            "for each",
+            "per",
+            "once",
+            "ever",
+            "the"
+        ]
+    },
+    {
+        "text": "Universität",
+        "translations": [
+            "university",
+            "uni",
+            "college"
+        ]
+    },
+    {
+        "text": "Kino",
+        "translations": [
+            "movie theater",
+            "cinema",
+            "movie theatre",
+            "movie house",
+            "theater",
+            "theatre",
+            "cinema hall"
+        ]
+    },
+    {
+        "text": "rechts",
+        "translations": [
+            "on the right",
+            "right",
+            "the right",
+            "to the right",
+            "on the right side",
+            "on the right-hand side"
+        ]
+    },
+    {
+        "text": "links",
+        "translations": [
+            "on the left",
+            "left",
+            "to the left",
+            "on the left side",
+            "on the left-hand side"
+        ]
+    },
+    {
+        "text": "Bäckerei",
+        "translations": [
+            "bakery",
+            "baker's"
+        ]
+    },
+    {
+        "text": "Supermarkt",
+        "translations": [
+            "supermarket",
+            "grocery store"
+        ]
+    },
+    {
+        "text": "ha",
+        "translations": [
+            "ha"
+        ]
+    },
+    {
+        "text": "Museum",
+        "translations": [
+            "museum"
+        ]
+    },
+    {
+        "text": "Hotel",
+        "translations": [
+            "hotel"
+        ]
+    },
+    {
+        "text": "billig",
+        "translations": [
+            "cheap",
+            "inexpensive"
+        ]
+    },
+    {
+        "text": "elegant",
+        "translations": [
+            "elegant"
+        ]
+    },
+    {
+        "text": "Café",
+        "translations": [
+            "coffee shop",
+            "cafe",
+            "coffeehouse",
+            "café",
+            "coffee bar"
+        ]
+    },
+    {
+        "text": "alt",
+        "translations": [
+            "old"
+        ]
+    },
+    {
+        "text": "in der Nähe",
+        "translations": [
+            "close",
+            "nearby",
+            "near"
+        ]
+    },
+    {
+        "text": "Kirche",
+        "translations": [
+            "church",
+            "kirk"
+        ]
+    },
+    {
+        "text": "Apotheke",
+        "translations": [
+            "pharmacy",
+            "drugstore",
+            "chemist",
+            "chemist's"
+        ]
+    },
+    {
+        "text": "Bibliothek",
+        "translations": [
+            "library"
+        ]
+    },
+    {
+        "text": "Bahnhof",
+        "translations": [
+            "train station",
+            "railway station",
+            "rail station"
+        ]
+    },
+    {
+        "text": "Markt",
+        "translations": [
+            "market",
+            "marketplace"
+        ]
+    },
+    {
+        "text": "da drüben",
+        "translations": [
+            "over there"
+        ]
+    },
+    {
+        "text": "Park",
+        "translations": [
+            "park"
+        ]
+    },
+    {
+        "text": "Taxistand",
+        "translations": [
+            "taxi stand"
+        ]
+    },
+    {
+        "text": "Klavier",
+        "translations": [
+            "piano"
+        ]
+    },
+    {
+        "text": "spiele",
+        "translations": [
+            "am playing",
+            "play",
+            "playing"
+        ]
+    },
+    {
+        "text": "spielst",
+        "translations": [
+            "are playing",
+            "playing",
+            "play",
+            "do play",
+            "are"
+        ]
+    },
+    {
+        "text": "Schach",
+        "translations": [
+            "chess"
+        ]
+    },
+    {
+        "text": "spielt",
+        "translations": [
+            "is",
+            "are playing",
+            "is playing",
+            "play",
+            "plays",
+            "playing"
+        ]
+    },
+    {
+        "text": "oft",
+        "translations": [
+            "often"
+        ]
+    },
+    {
+        "text": "schwimmt",
+        "translations": [
+            "swim",
+            "is swimming",
+            "are floating",
+            "floats",
+            "float",
+            "swims",
+            "are swimming",
+            "swimming"
+        ]
+    },
+    {
+        "text": "malt",
+        "translations": [
+            "is drawing",
+            "paints",
+            "draws",
+            "draw",
+            "paint",
+            "is painting"
+        ]
+    },
+    {
+        "text": "kocht",
+        "translations": [
+            "make",
+            "cooks",
+            "is cooking",
+            "cook",
+            "cooking"
+        ]
+    },
+    {
+        "text": "immer",
+        "translations": [
+            "always"
+        ]
+    },
+    {
+        "text": "schwimmst",
+        "translations": [
+            "swim",
+            "are floating",
+            "float",
+            "are swimming"
+        ]
+    },
+    {
+        "text": "kochst",
+        "translations": [
+            "are boiling",
+            "make",
+            "boil",
+            "cooking",
+            "are making",
+            "are cooking",
+            "do the cooking",
+            "cook"
+        ]
+    },
+    {
+        "text": "malst",
+        "translations": [
+            "are painting",
+            "paint"
+        ]
+    },
+    {
+        "text": "eh",
+        "translations": [
+            "in any case",
+            "hey",
+            "anyway"
+        ]
+    },
+    {
+        "text": "male",
+        "translations": [
+            "paint",
+            "am painting",
+            "draw",
+            "am drawing"
+        ]
+    },
+    {
+        "text": "nie",
+        "translations": [
+            "never"
+        ]
+    },
+    {
+        "text": "schwimme",
+        "translations": [
+            "swim",
+            "am swimming",
+            "swimming"
+        ]
+    },
+    {
+        "text": "manchmal",
+        "translations": [
+            "sometimes",
+            "at times"
+        ]
+    },
+    {
+        "text": "koche",
+        "translations": [
+            "am making",
+            "make",
+            "will cook",
+            "cook",
+            "am cooking",
+            "cooking"
+        ]
+    },
+    {
+        "text": "acht",
+        "translations": [
+            "eight"
+        ]
+    },
+    {
+        "text": "Lehrerin",
+        "translations": [
+            "teacher",
+            "a teacher"
+        ]
+    },
+    {
+        "text": "Arbeit",
+        "translations": [
+            "work",
+            "piece of work",
+            "job",
+            "article",
+            "dissertation",
+            "test"
+        ]
+    },
+    {
+        "text": "Lehrer",
+        "translations": [
+            "teacher",
+            "instructor",
+            "schoolteacher"
+        ]
+    },
+    {
+        "text": "interessant",
+        "translations": [
+            "interesting"
+        ]
+    },
+    {
+        "text": "aber",
+        "translations": [
+            "but",
+            "however"
+        ]
+    },
+    {
+        "text": "stressig",
+        "translations": [
+            "stressful"
+        ]
+    },
+    {
+        "text": "Arzt",
+        "translations": [
+            "doctor",
+            "physician"
+        ]
+    },
+    {
+        "text": "Studentin",
+        "translations": [
+            "a student",
+            "college student",
+            "student"
+        ]
+    },
+    {
+        "text": "Ärztin",
+        "translations": [
+            "doctor",
+            "a doctor"
+        ]
+    },
+    {
+        "text": "Student",
+        "translations": [
+            "college student",
+            "university student",
+            "student"
+        ]
+    },
+    {
+        "text": "Freundin",
+        "translations": [
+            "girlfriend",
+            "friend",
+            "friend's",
+            "girlfriends"
+        ]
+    },
+    {
+        "text": "deine",
+        "translations": [
+            "your",
+            "yours"
+        ]
+    },
+    {
+        "text": "Beruf",
+        "translations": [
+            "profession",
+            "job",
+            "occupation",
+            "trade"
+        ]
+    },
+    {
+        "text": "dein",
+        "translations": [
+            "your"
+        ]
+    },
+    {
+        "text": "was",
+        "translations": [
+            "what"
+        ]
+    },
+    {
+        "text": "Professorin",
+        "translations": [
+            "professor",
+            "a professor"
+        ]
+    },
+    {
+        "text": "Professor",
+        "translations": [
+            "professor",
+            "a professor"
+        ]
+    },
+    {
+        "text": "au",
+        "translations": [
+            "ow",
+            "oh",
+            "ouch",
+            "ouch!"
+        ]
+    },
+    {
+        "text": "Kellnerin",
+        "translations": [
+            "waitress",
+            "server"
+        ]
+    },
+    {
+        "text": "sie",
+        "translations": [
+            "she"
+        ]
+    },
+    {
+        "text": "Schauspieler",
+        "translations": [
+            "actor"
+        ]
+    },
+    {
+        "text": "Schauspielerin",
+        "translations": [
+            "actress",
+            "actor"
+        ]
+    },
+    {
+        "text": "laut",
+        "translations": [
+            "loud",
+            "noisy",
+            "loudly",
+            "noisily"
+        ]
+    },
+    {
+        "text": "aufregend",
+        "translations": [
+            "exciting",
+            "thrilling"
+        ]
+    },
+    {
+        "text": "teuer",
+        "translations": [
+            "expensive",
+            "costly",
+            "dear",
+            "dearly",
+            "expensively",
+            "pricey"
+        ]
+    },
+    {
+        "text": "cool",
+        "translations": [
+            "cool"
+        ]
+    },
+    {
+        "text": "auch",
+        "translations": [
+            "also",
+            "as well",
+            "too"
+        ]
+    },
+    {
+        "text": "Frankreich",
+        "translations": [
+            "France"
+        ]
+    },
+    {
+        "text": "aus",
+        "translations": [
+            "made of",
+            "out",
+            "off",
+            "for",
+            "end",
+            "displaying",
+            "blew",
+            "from",
+            "out of",
+            "in",
+            "of"
+        ]
+    },
+    {
+        "text": "komme",
+        "translations": [
+            "come",
+            "will come",
+            "am coming",
+            "get",
+            "arrive",
+            "coming",
+            "am"
+        ]
+    },
+    {
+        "text": "München",
+        "translations": [
+            "Munich"
+        ]
+    },
+    {
+        "text": "Stadt",
+        "translations": [
+            "city",
+            "town"
+        ]
+    },
+    {
+        "text": "Wien",
+        "translations": [
+            "Vienna"
+        ]
+    },
+    {
+        "text": "Österreich",
+        "translations": [
+            "Austria"
+        ]
+    },
+    {
+        "text": "woher",
+        "translations": [
+            "where",
+            "from",
+            "where from"
+        ]
+    },
+    {
+        "text": "kommst",
+        "translations": [
+            "come",
+            "are coming",
+            "are",
+            "will come"
+        ]
+    },
+    {
+        "text": "Amerika",
+        "translations": [
+            "America"
+        ]
+    },
+    {
+        "text": "in",
+        "translations": [
+            "in",
+            "with",
+            "inside",
+            "onto",
+            "into",
+            "at",
+            "on",
+            "during",
+            "to"
+        ]
+    },
+    {
+        "text": "Deutschland",
+        "translations": [
+            "Germany"
+        ]
+    },
+    {
+        "text": "klein",
+        "translations": [
+            "small"
+        ]
+    },
+    {
+        "text": "Kanada",
+        "translations": [
+            "Canada"
+        ]
+    },
+    {
+        "text": "wunderbar",
+        "translations": [
+            "wonderful",
+            "splendid",
+            "excellent",
+            "great",
+            "lovely",
+            "terrific"
+        ]
+    },
+    {
+        "text": "Schnitzel",
+        "translations": [
+            "schnitzel",
+            "schnitzels"
+        ]
+    },
+    {
+        "text": "zu",
+        "translations": [
+            "with",
+            "for",
+            "too",
+            "towards",
+            "into",
+            "at",
+            "on",
+            "close",
+            "about",
+            "to",
+            "closed",
+            "by",
+            "closes",
+            "push"
+        ]
+    },
+    {
+        "text": "Rechnung",
+        "translations": [
+            "check"
+        ]
+    },
+    {
+        "text": "Essen",
+        "translations": [
+            "food"
+        ]
+    },
+    {
+        "text": "Wurst",
+        "translations": [
+            "sausage"
+        ]
+    },
+    {
+        "text": "Restaurant",
+        "translations": [
+            "restaurant"
+        ]
+    },
+    {
+        "text": "Salz",
+        "translations": [
+            "salt"
+        ]
+    },
+    {
+        "text": "Entschuldigung",
+        "translations": [
+            "sorry",
+            "excuse me",
+            "apologies"
+        ]
+    },
+    {
+        "text": "Kellner",
+        "translations": [
+            "waiter"
+        ]
+    },
+    {
+        "text": "Speisekarte",
+        "translations": [
+            "menu"
+        ]
+    },
+    {
+        "text": "kalt",
+        "translations": [
+            "cold"
+        ]
+    },
+    {
+        "text": "Mineralwasser",
+        "translations": [
+            "mineral water"
+        ]
+    },
+    {
+        "text": "das",
+        "translations": [
+            "that",
+            "this",
+            "so",
+            "the",
+            "these",
+            "those",
+            "who",
+            "which",
+            "about that"
+        ]
+    },
+    {
+        "text": "Ei",
+        "translations": [
+            "egg"
+        ]
+    },
+    {
+        "text": "Sandwich",
+        "translations": [
+            "sandwich"
+        ]
+    },
+    {
+        "text": "hier",
+        "translations": [
+            "here"
+        ]
+    },
+    {
+        "text": "heiß",
+        "translations": [
+            "hot"
+        ]
+    },
+    {
+        "text": "lecker",
+        "translations": [
+            "delicious"
+        ]
+    },
+    {
+        "text": "Pizza",
+        "translations": [
+            "pizza"
+        ]
+    },
+    {
+        "text": "mit",
+        "translations": [
+            "with"
+        ]
+    },
+    {
+        "text": "Salat",
+        "translations": [
+            "salad"
+        ]
+    },
+    {
+        "text": "Käse",
+        "translations": [
+            "cheese"
+        ]
+    },
+    {
+        "text": "bis später",
+        "translations": [
+            "see you later"
+        ]
+    },
+    {
+        "text": "es tut mir leid",
+        "translations": [
+            "I am sorry"
+        ]
+    },
+    {
+        "text": "natürlich",
+        "translations": [
+            "of course"
+        ]
+    },
+    {
+        "text": "ehe",
+        "translations": [
+            "anyways",
+            "in any case",
+            "marriage",
+            "hey",
+            "before"
+        ]
+    },
+    {
+        "text": "bis bald",
+        "translations": [
+            "see you soon"
+        ]
+    },
+    {
+        "text": "prost",
+        "translations": [
+            "cheers"
+        ]
+    },
+    {
+        "text": "OK",
+        "translations": [
+            "OK"
+        ]
+    },
+    {
+        "text": "auf Wiedersehen",
+        "translations": [
+            "goodbye"
+        ]
+    },
+    {
+        "text": "er",
+        "translations": [
+            "it's",
+            "he's",
+            "him",
+            "it",
+            "he",
+            "he'll"
+        ]
+    },
+    {
+        "text": "es geht",
+        "translations": [
+            "I'm all right"
+        ]
+    },
+    {
+        "text": "sah",
+        "translations": [
+            "saw",
+            "looked",
+            "watched",
+            "see",
+            "found",
+            "caught"
+        ]
+    },
+    {
+        "text": "gut",
+        "translations": [
+            "good"
+        ]
+    },
+    {
+        "text": "guten Tag",
+        "translations": [
+            "hello"
+        ]
+    },
+    {
+        "text": "wie geht's",
+        "translations": [
+            "how are you?"
+        ]
+    },
+    {
+        "text": "super",
+        "translations": [
+            "super",
+            "great",
+            "fantastic",
+            "awesome"
+        ]
+    },
+    {
+        "text": "Bär",
+        "translations": [
+            "bear"
+        ]
+    },
+    {
+        "text": "Eule",
+        "translations": [
+            "owl"
+        ]
+    },
+    {
+        "text": "oh",
+        "translations": [
+            "oh",
+            "aw"
+        ]
+    },
+    {
+        "text": "wo",
+        "translations": [
+            "where"
+        ]
+    },
+    {
+        "text": "Maus",
+        "translations": [
+            "mouse"
+        ]
+    },
+    {
+        "text": "Katze",
+        "translations": [
+            "cat"
+        ]
+    },
+    {
+        "text": "Elefant",
+        "translations": [
+            "elephant"
+        ]
+    },
+    {
+        "text": "schön",
+        "translations": [
+            "beautiful"
+        ]
+    },
+    {
+        "text": "jung",
+        "translations": [
+            "young"
+        ]
+    },
+    {
+        "text": "Hund",
+        "translations": [
+            "dog"
+        ]
+    },
+    {
+        "text": "Junge",
+        "translations": [
+            "boy"
+        ]
+    },
+    {
+        "text": "der",
+        "translations": [
+            "this",
+            "to the",
+            "of the",
+            "the",
+            "that",
+            "those",
+            "in the",
+            "whom",
+            "who",
+            "which",
+            "of",
+            "my"
+        ]
+    },
+    {
+        "text": "ie",
+        "translations": [
+            "ie"
+        ]
+    },
+    {
+        "text": "die",
+        "translations": [
+            "this",
+            "the",
+            "that",
+            "these",
+            "those",
+            "whom",
+            "who",
+            "which",
+            "my"
+        ]
+    },
+    {
+        "text": "lag",
+        "translations": [
+            "lied",
+            "was lying",
+            "lay",
+            "was"
+        ]
+    },
+    {
+        "text": "nett",
+        "translations": [
+            "nice"
+        ]
+    },
+    {
+        "text": "klug",
+        "translations": [
+            "smart"
+        ]
+    },
+    {
+        "text": "groß",
+        "translations": [
+            "tall"
+        ]
+    },
+    {
+        "text": "sehr",
+        "translations": [
+            "very"
+        ]
+    },
+    {
+        "text": "ist",
+        "translations": [
+            "is",
+            "there is",
+            "'s",
+            "feels",
+            "am",
+            "has been",
+            "did",
+            "has",
+            "are",
+            "was",
+            "is feeling"
+        ]
+    },
+    {
+        "text": "Tochter",
+        "translations": [
+            "daughter"
+        ]
+    },
+    {
+        "text": "Sohn",
+        "translations": [
+            "son"
+        ]
+    },
+    {
+        "text": "du",
+        "translations": [
+            "you"
+        ]
+    },
+    {
+        "text": "bist",
+        "translations": [
+            "are",
+            "have been",
+            "were",
+            "did",
+            "have",
+            "feel"
+        ]
+    },
+    {
+        "text": "Frau",
+        "translations": [
+            "woman",
+            "wife",
+            "Ms.",
+            "Mrs."
+        ]
+    },
+    {
+        "text": "ach",
+        "translations": [
+            "oh"
+        ]
+    },
+    {
+        "text": "Mann",
+        "translations": [
+            "husband",
+            "man",
+            "guy"
+        ]
+    },
+    {
+        "text": "Bruder",
+        "translations": [
+            "brother"
+        ]
+    },
+    {
+        "text": "mein",
+        "translations": [
+            "my"
+        ]
+    },
+    {
+        "text": "meine",
+        "translations": [
+            "mine",
+            "think",
+            "my",
+            "mean"
+        ]
+    },
+    {
+        "text": "Schwester",
+        "translations": [
+            "sister"
+        ]
+    },
+    {
+        "text": "Mutter",
+        "translations": [
+            "mother"
+        ]
+    },
+    {
+        "text": "bin",
+        "translations": [
+            "am",
+            "will be",
+            "feel",
+            "have been",
+            "did",
+            "have",
+            "was",
+            "feeling"
+        ]
+    },
+    {
+        "text": "eine",
+        "translations": [
+            "an",
+            "a",
+            "one"
+        ]
+    },
+    {
+        "text": "ein",
+        "translations": [
+            "a",
+            "one",
+            "submit",
+            "an",
+            "invite",
+            "inviting",
+            "on",
+            "invites",
+            "submitting"
+        ]
+    },
+    {
+        "text": "vier",
+        "translations": [
+            "four"
+        ]
+    },
+    {
+        "text": "ich",
+        "translations": [
+            "I"
+        ]
+    },
+    {
+        "text": "Vater",
+        "translations": [
+            "father"
+        ]
+    },
+    {
+        "text": "ja",
+        "translations": [
+            "yes"
+        ]
+    },
+    {
+        "text": "Bier",
+        "translations": [
+            "beer"
+        ]
+    },
+    {
+        "text": "oder",
+        "translations": [
+            "or"
+        ]
+    },
+    {
+        "text": "tschüss",
+        "translations": [
+            "bye"
+        ]
+    },
+    {
+        "text": "nein",
+        "translations": [
+            "no"
+        ]
+    },
+    {
+        "text": "danke",
+        "translations": [
+            "thank you"
+        ]
+    },
+    {
+        "text": "Wasser",
+        "translations": [
+            "water"
+        ]
+    },
+    {
+        "text": "Brot",
+        "translations": [
+            "bread"
+        ]
+    },
+    {
+        "text": "Wein",
+        "translations": [
+            "wine"
+        ]
+    },
+    {
+        "text": "Tee",
+        "translations": [
+            "tea"
+        ]
+    },
+    {
+        "text": "hallo",
+        "translations": [
+            "hello"
+        ]
+    },
+    {
+        "text": "Kaffee",
+        "translations": [
+            "coffee"
+        ]
+    },
+    {
+        "text": "bitte",
+        "translations": [
+            "please"
+        ]
+    },
+    {
+        "text": "Milch",
+        "translations": [
+            "milk"
+        ]
+    },
+    {
+        "text": "a",
+        "translations": [
+            "A",
+            "≅ M"
+        ]
+    },
+    {
+        "text": "und",
+        "translations": [
+            "and"
+        ]
+    }
+]
